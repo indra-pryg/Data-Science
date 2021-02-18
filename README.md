@@ -9,7 +9,7 @@ London Housing is a dataset to analyze average sales, the number of criminals in
 ## [2. Police Data: Poject Overview](https://github.com/indra-pryg/Data-Science/tree/main/Police%20Data)
 This dataset contains columns for stop_date, stop_time, country_name, driver_gender, driver_age_raw, driver_age, driver_race, violation_raw, violation, search_conducted, search_type, stop_outcome and is_arrested for analysis.
 
-![](https://github.com/indra-pryg/Data-Science/blob/main/Picture/Police%20Data.PNG)
+![](https://github.com/indra-pryg/Data-Science/blob/main/Picture/Police%20Data%20small.png)
 
 
 ## [3. Udemy Course: Poject Overview](https://github.com/indra-pryg/Data-Science/tree/main/Udemy%20Course)

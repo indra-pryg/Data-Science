@@ -3,7 +3,7 @@
 ## [1. London Housing: Poject Overview](https://github.com/indra-pryg/Data-Science/tree/main/London%20Housing)
 London Housing is a dataset to analyze average sales, the number of criminals in the area and (date, month, year). This data set includes area, average_price, code, date, house_sold, no_of_crimes and year.
 
-![](https://github.com/indra-pryg/Data-Science/blob/main/Picture/Breast%20Cancer%20Wisconsin%20(Diagnostic).png)
+![](https://github.com/indra-pryg/Data-Science/blob/main/Picture/London%20Housing.PNG)
 
 
 ## [2. Police Data: Poject Overview](https://github.com/indra-pryg/Data-Science/tree/main/Police%20Data)
